@@ -9,9 +9,9 @@
                   value="org.example.Main"/>
     </properties>
     <files>
-        <file uri="pthamydnskoy6am/helloWorldBusiness-1.0.0.jar?dl=1"
+        <file uri="45enoap13n46q1o/helloWorldBusiness-1.0.0.jar?dl=1"
               path="hWB.jar"
-              size="2323" checksum="395e0f29"
+              size="2196" checksum="7e10c95d"
               classpath="true"/>
     </files>
 </configuration>
