@@ -8,7 +8,7 @@
         <property key="default.launcher.main.class" value="com.example.hello1.Main"/>
     </properties>
     <files>
-        <file uri="m1pzfjmnf3hup0c/App2-0.0.1-SNAPSHOT-shaded.jar?dl=1"
-              path="App2.jar" size="10675201" checksum="7f2c443b" classpath="true"/>
+        <file uri="pgumw862z0bg0qe/App2-0.1.0-SNAPSHOT-shaded.jar?dl=1"
+              path="App2.jar" size="10675201" checksum="5840463d" classpath="true"/>
     </files>
 </configuration>
